@@ -1,9 +1,9 @@
 *&---------------------------------------------------------------------*
-*& Report /SBDSHP/GGRC_ROLES_TC
+*& Report ZAUTH_CHECK
 *&---------------------------------------------------------------------*
 *& Author - Harsh Sharma
 *&---------------------------------------------------------------------*
-REPORT /sbdshp/ggrc_roles_tc.
+REPORT zauth_check.
 
 TABLES: agr_tcodes,
         agr_buffi,
